@@ -5,7 +5,7 @@ import { About } from './components/about'
 import { Services } from './components/services'
 import { Footer } from './components/footer'
 import { Team } from './components/team'
-import { Contact } from './components/contact'
+import Contact from './components/contact'
 import JsonData from './data/data.json'
 import SmoothScroll from 'smooth-scroll'
 
