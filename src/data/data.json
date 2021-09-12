@@ -1,0 +1,91 @@
+{
+    "About": {
+        "paragraph": "We do payments better",
+        "Why": [
+            "No transaction fees",
+            "Loyalty Points"
+            
+        ],
+        "Why2": [
+            "Discounts",
+            "Loyalties",
+            "Wallet",
+            "Security"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "A",
+            "text": "ajdfalsj"
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "B",
+            "text": "ajsdlajsd"
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "C",
+            "text": "akljdlfs"
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "D",
+            "text": "sdjalsdjfl"
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "E",
+            "text": "asjdfls"
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "F",
+            "text": "sajlfsdaljf"
+        }
+
+
+    ],
+    "Team": [{
+            "img": "img/team/maciek.jpeg",
+            "name": "Maciek Romanowicz",
+            "education": "Stanford | MBA HBS",
+            "job": "CircleUp"
+        },
+        {
+            "img": "img/team/miheer.jpeg",
+            "name": "Miheer Bavare",
+            "education": "Georgia Tech | MS/MBA HBS",
+            "job": "Credit Karma"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
