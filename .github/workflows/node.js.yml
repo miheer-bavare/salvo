@@ -26,14 +26,18 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
-    - run: npm install react-scripts
-    - run: npm install gh-pages
-    - run: git config --global user.name $user_name
-    - run: git config --global user.email $user_email
-    - run: git remote set-url origin https://${github_token}@github.com/${repository}
-    - run: npm run deploy
-    - env:
+    - name: deploy
+      run: |
+        npm install react-scripts
+        npm install gh-pages
+        git config --global user.name $user_name
+        git config --global user.email $user_email
+        git remote set-url origin https://${github_token}@github.com/${repository}
+        npm run deploy
+      env:
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
         github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
         repository: ${{ github.repository }}
+        
+    
