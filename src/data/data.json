@@ -13,17 +13,17 @@
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "No Transaction Fees",
-            "text": "Our business model is built around "
+            "text": "We do not charge either a merchant or a customer any transaction fee - what a customer pays goes into the pocket of the merchants"
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "B",
-            "text": "ajsdlajsd"
+            "name": "Loyalty Rewards",
+            "text": "We enable merchants to personalize discounts to serve the needs of each of their loyal customers"
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "C",
-            "text": "akljdlfs"
+            "name": "Data",
+            "text": "We anonymize and own the transaction data occuring on our platform"
         },
         {
             "icon": "fa fa-language",
