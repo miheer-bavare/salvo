@@ -6,12 +6,12 @@
             "Loyalty Points for end-customers"
             
         ],
-  "#"    "Why2": [
-  "#"          "Discounts",
-  "#"       "Loyalties",
-  "#"    "Wallet",
-  "#"        "Security"
-  "#"      ]
+ <!--    "Why2": [   
+  <!--          "Discounts",
+  <!--       "Loyalties",
+  <!--    "Wallet",
+  <!--        "Security"
+  <!--      ].  
       },
     "Services": [{
             "icon": "fa fa-wordpress",
