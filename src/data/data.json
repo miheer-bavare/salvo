@@ -23,7 +23,7 @@
         {
             "icon": "fa fa-cloud-download",
             "name": "Data Insights",
-            "text": "We anonymize transaction data, build collective insights reports and sell it to clients"
+            "text": "We anonymize transaction data, build comprehensive insights reports and sell it to clients"
         },
         {
             "icon": "fa fa-language",
@@ -47,13 +47,15 @@
             "img": "img/team/maciek.jpeg",
             "name": "Maciek Romanowicz",
             "education": "Stanford | MBA HBS",
-            "job": "CircleUp"
+            "job": "CircleUp (fin-tech), Insikt/Aura (fin-tech)",
+            "area of expertise": "business operations"           
         },
         {
             "img": "img/team/miheer.jpeg",
             "name": "Miheer Bavare",
             "education": "Georgia Tech | MS/MBA HBS",
-            "job": "Credit Karma"
+            "job": "Credit Karma (fin-tech"),
+            "area of expertise": "software/product development"
         }
     ]
 }
