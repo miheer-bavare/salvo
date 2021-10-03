@@ -1,10 +1,9 @@
 {
     "About": {
-        "paragraph": "We are building the payments platform that will help local economy thrive by enabling merchants and customers to support one another",
+        "paragraph": "We are building the payments platform that will help local economy thrive by enabling merchants and customers to support one another. We are just starting and therefore hoping you can help us figure out the necessary details of the service. Please sign up below so we can follow up with you and set up customer discovery calls (both, merchants and customers are welcome)",
         "Why": [
             "No transaction fees for merchants",
-            "Loyalty rewards for customers",
-            "The above is our hoped-for value proposition and we are hoping you can guide us on what kind of service would work for you. Please sign up below so we can follow up with you and set up customer discovery calls. Both merchants and customers are welcome"
+            "Loyalty rewards for customers"
         ],
         "Why2": [
             "ff"
