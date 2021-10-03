@@ -1,7 +1,7 @@
 {
     "About": {
         "paragraph": "We are the payments platform that helps local economy thrive by enabling merchants and customers to support one another",
-        "What is our value proposition": [
+        "Why": [
             "No transaction fees for merchants",
             "Loyalty rewards for customers"
         ],
@@ -10,10 +10,10 @@
             ]
     },
          
-    "Services": [{
+    "How do we differ from other payment platforms": [{
             "icon": "fa fa-wordpress",
-            "name": "A",
-            "text": "ajdfalsj"
+            "name": "No Transaction Fees",
+            "text": "Our business model is built around "
         },
         {
             "icon": "fa fa-cart-arrow-down",
