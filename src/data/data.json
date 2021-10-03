@@ -1,13 +1,10 @@
 {
     "About": {
-        "paragraph": "We are building the payments platform that will help local economy thrive by enabling merchants and customers to support one another. We are just starting and therefore hoping you can help us figure out the necessary details of the service. Please sign up below so we can follow up with you and set up customer discovery calls (both, merchants and customers are welcome)",
+        "paragraph": "We are building a payments platform that will help local economies thrive by enabling merchants and customers to support one another.",
         "Why": [
             "No transaction fees for merchants",
             "Loyalty rewards for customers"
-        ],
-        "Why2": [
-            "ff"
-            ]
+        ]
     },
          
     "Services": [{
@@ -28,12 +25,12 @@
         {
             "icon": "fa fa-language",
             "name": "How does it work from the customer perspective?",
-            "text": "Download Salvo app, connect your bank account to Salvo and begin shopping at your favorite local merchants (if they are already on the platform) with Salvo"
+            "text": "Download Salvo app, connect your bank account to Salvo and begin shopping at your favorite local merchants with Salvo"
         },
         {
             "icon": "fa fa-plane",
             "name": "How does it work from the merchant perspective?",
-            "text": "Connect with us, let us onboard you onto the platform "
+            "text": "Connect with us, let us onboard you onto the platform."
         },
         {
             "icon": "fa fa-pie-chart",

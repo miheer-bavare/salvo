@@ -5,7 +5,7 @@ export const Footer = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            Sancus
+            Salvo
           </p>
         </div>
       </div>

@@ -13,10 +13,10 @@ export const Header = (props) => {
               <div className='col-md-8 col-md-offset-2 intro-text'>
               
                 <h1>
-                  Sancus
+                  Salvo
                   <span></span>
                 </h1>
-                <p>A new way to do credit card transactions transactions!</p>
+                <p>Together we can eliminate transaction fees & reinvigorate local economies!</p>
                 <a
                   href='#about'
                   className='btn btn-custom btn-lg page-scroll'
