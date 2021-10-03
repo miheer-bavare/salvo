@@ -6,13 +6,13 @@
             "Loyalty Points for end-customers"
             
         ],
-      //  "What do we offer?": [
-        //    "Discounts",
-      //      "Loyalties",
-    //        "Wallet",
-//            "Security"
-  //      ]
- //   },
+        "What do we offer?": [
+            "Discounts",
+            "Loyalties",
+            "Wallet",
+            "Security"
+        ]
+      },
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "A",
