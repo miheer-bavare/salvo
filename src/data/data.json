@@ -1,12 +1,12 @@
 {
     "About": {
         "paragraph": "We are the first payment platform that puts both merchants and end-customers first",
-        "Why2": [
+        "Why": [
             "No transaction fees for merchants",
             "Loyalty Points for end-customers"
             
         ],
-        "What do we offer?": [
+        "Why2": [
             "Discounts",
             "Loyalties",
             "Wallet",
