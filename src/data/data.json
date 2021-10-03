@@ -28,17 +28,17 @@
         {
             "icon": "fa fa-language",
             "name": "How does it work from the customer perspective?",
-            "text": "sdjalsdjfl"
+            "text": "Download Salvo app, connect your bank account to Salvo and begin shopping at your favorite local merchants (if they are already on the platform) with Salvo"
         },
         {
             "icon": "fa fa-plane",
-            "name": "E",
-            "text": "asjdfls"
+            "name": "How does it work from the merchant perspective?",
+            "text": "Connect with us, let us onboard you onto the platform "
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "F",
-            "text": "sajlfsdaljf"
+            "name": "Referrals",
+            "text": "Please let us know if your favorite local merchant is not on Salvo yet and we will follow up with them. Similarly, if you enjoy using Salvo as a payment method please spread the word"
         }
 
 
