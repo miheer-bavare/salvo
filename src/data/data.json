@@ -1,19 +1,18 @@
 {
     "About": {
-        "paragraph": "We do payments better & help merchants thrive",
+        "paragraph": "We are the first payment platform that puts both merchants and end-customers first",
         "Why": [
-            "No transaction fees",
-            "Loyalty Points",
-            "Data Analytics"
+            "No transaction fees for merchants",
+            "Loyalty Points for end-customers"
             
         ],
-        "Why2": [
-            "Discounts",
-            "Loyalties",
-            "Wallet",
-            "Security"
-        ]
-    },
+      //  "What do we offer?": [
+        //    "Discounts",
+      //      "Loyalties",
+    //        "Wallet",
+//            "Security"
+  //      ]
+ //   },
     "Services": [{
             "icon": "fa fa-wordpress",
             "name": "A",
